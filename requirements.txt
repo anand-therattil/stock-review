@@ -1,0 +1,19 @@
+# Stock Analyzer Dependencies
+
+# Data fetching
+yfinance>=0.2.40
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Deep Learning - Time Series
+torch>=2.0.0
+
+# Transformers for Qwen (sentiment analysis)
+transformers>=4.35.0
+accelerate>=0.24.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.0
